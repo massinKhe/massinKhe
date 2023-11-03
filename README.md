@@ -2,7 +2,7 @@ Hey there, I'm Massin Kheloufi! Here's a brief description of me in five lines:
 
 - 20 years old
 - algerian IT student 
-- interested to learn more about Cybersecutiy and the world of System Admins
+- interested to learn more about IA and the world of data science
 - currently learning C# and deepening my web dev skills
 - you can reach me on [Linkedin](https://www.linkedin.com/in/massin-kheloufi)
 
