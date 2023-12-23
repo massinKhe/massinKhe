@@ -7,7 +7,7 @@ Hey there, I'm Massin Kheloufi! Here's a brief description of me in five lines:
 - you can reach me on [Linkedin](https://www.linkedin.com/in/massin-kheloufi)
 
 
-
+(just a matter of time before I finish my profile, trust trust)
 
 <!---
 massinKhe/massinKhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
